@@ -11,7 +11,7 @@ Make sure you have [raylib](https://www.raylib.com/) installed.
 brew install raylib
 ```
 
-# Run
+### Run
 ```sh
 make run
 ```
