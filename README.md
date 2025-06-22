@@ -1,3 +1,3 @@
 Bouncing balls with raylib
 
-![Screenshot](screenshot.png)
+![Screenshot](balls.png)
