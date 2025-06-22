@@ -1,6 +1,6 @@
 Bouncing balls with raylib
 
-## Installation
+![Screenshot](balls.png)
 
 ### Dependencies
 
@@ -10,4 +10,3 @@ Make sure you have [raylib](https://www.raylib.com/) installed.
 ```sh
 brew install raylib
 
-![Screenshot](balls.png)
