@@ -74,6 +74,12 @@ int main() {
         EndDrawing();
     }
 
+    // i dont really have to free since program just ends, but for good practice ;)
+    for (int i = 0; i < max_balls; i++) {
+        free(balls[i]);
+    }
+
+    free(balls);
     CloseWindow();
     return 0;
 }
